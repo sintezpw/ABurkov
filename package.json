@@ -1,0 +1,26 @@
+{
+	"name": "ABurkov",
+	"version": "1.0.0",
+	"description": "Антон Бурков",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "pingy dev",
+		"export": "pingy export"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sintezpw/ABurkov.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sintezpw/ABurkov/issues"
+	},
+	"homepage": "https://github.com/sintezpw/ABurkov#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"@pingy/cli": "^0.10.4"
+	}
+}
